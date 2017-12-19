@@ -1,0 +1,61 @@
+.homeButton{
+    height: 120px;
+    border: 1px solid black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.upperHomeRow{
+    margin-top: 70px;
+}
+
+.lowerHomeRow{
+    margin-top: 35px;
+}
+
+.formApotheek{
+    margin-top: 10px;
+    margin-left: 14px;
+}
+
+.formApotheekLabel{
+    margin-top: 10px;
+}
+
+th, td{
+    border: 1px solid black;
+}
+
+.tableButtons{
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.nopadding{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+.nomargin{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.text-nowrap {
+    margin-left: 5% !important;
+}
+.medicijn_naam{
+    border: 1px solid black;
+}
+.checkbox{
+    float: right;
+}
+tr:nth-child(even){
+    background-color: #ccc;
+}
+tr:nth-child(odd){
+    background-color: #fff;
+}
